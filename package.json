@@ -1,6 +1,9 @@
 {
   "name": "gci-2019-react-app-tencups",
   "version": "0.1.0",
+  "description": "React App for GCI 2019",
+  "repository": "",
+  "license": "mit",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
